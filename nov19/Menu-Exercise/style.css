@@ -1,0 +1,48 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: rgb(208, 43, 2);
+    font-size: 50px;
+    text-align: center;
+    font-family: cursive;
+    background-color: rgb(224, 170, 104);
+    padding: 20px;
+    border-radius: 25px;
+}
+
+h2{
+    color: rgb(208, 43, 2);
+    font-size: 40px;
+}
+
+span{
+    color: rgb(208, 43, 2);
+}
+
+a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 24px;
+    background-color: rgb(224, 170, 104);
+    color: white;
+    border-radius: 25px;
+    margin: 30px;
+}
+
+a:hover{
+    background-color: white;
+    color: rgb(224, 170, 104);
+    border: 2px solid rgb(224, 170, 104);
+    cursor: pointer;
+    text-decoration: underline;
+}
+hr{
+    border: 2px solid rgb(141, 70, 52);
+    border-radius: 25px;
+}
+
+footer p{
+    color: rgb(208, 43, 2);
+}
